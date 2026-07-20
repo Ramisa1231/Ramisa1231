@@ -6,7 +6,7 @@
 
 I build **evaluated, safety-aware AI systems** that connect technical capability with real organisational needs.
 
-📍 Adelaide, Australia · 🧭 Forward Deployed Engineer at **The Helix Lab**
+📍 Adelaide, Australia · 🧭 Forward Deployed Engineer at **[The Helix Lab](https://www.linkedin.com/company/the-helix-lab/)**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-b8f34b?style=for-the-badge&logo=github&logoColor=111111)](https://ramisa1231.github.io/ramisa-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syedaramisafariha)
