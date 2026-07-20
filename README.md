@@ -68,4 +68,4 @@ Research into LLM grammar inference, TCP packet parsing, mutated packet generati
 
 I’m interested in applied AI, forward-deployed engineering, AI consulting, and software roles where technical judgement and stakeholder collaboration matter.
 
-[View my portfolio](https://ramisa1231.github.io/ramisa-portfolio/) · [Connect on LinkedIn](https://www.linkedin.com/in/syedaramisafariha) · [Email me](mailto:ramisa@thehelixlab.ai)
+[View my portfolio](https://github.com/Ramisa1231/ramisa-portfolio/) · [Connect on LinkedIn](https://www.linkedin.com/in/syedaramisafariha) · [Email me](mailto:ramisa@thehelixlab.ai)
