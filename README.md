@@ -22,37 +22,45 @@ I work across **retrieval-augmented generation, agent workflows, Python APIs, ev
 
 My background spans software engineering, computer-science research, university teaching, learning technology, and client-oriented delivery. I enjoy moving between technical detail and organisational context to build systems people can understand, trust, and use.
 
-## 🎯 Current focus
+## 🔭 Now
 
-- Production-ready RAG and policy-intelligence systems
-- AI evaluation, grounding, safety, and observability
-- Agent workflows for government and regulated industries
-- Human-centred delivery from technical discovery to usable software
+- Building production-ready policy-intelligence and RAG systems
+- Improving retrieval evaluation, grounding, safety, and observability
+- Turning applied-AI prototypes into deployable, stakeholder-ready software
 
 ## 🚀 Featured work
 
 ### 🔹 [CouncilQ](https://github.com/Ramisa1231/CouncilQ) — policy intelligence and evaluated RAG
 
-A read-only council policy assistant combining policy screening, trusted-source lookup, dense and lexical retrieval, reciprocal-rank fusion, reranking, context compression, and citation validation.
+Built a read-only policy assistant with prompt-injection and PII controls, trusted-source lookup, hybrid retrieval, reciprocal-rank fusion, reranking, context compression, and grounded citations. Retrieval quality is measured through deterministic Recall, MRR, and nDCG evaluation harnesses.
 
-`Python` `FastAPI` `Google ADK` `RAG` `pytest` `Recall · MRR · nDCG`
+`Python` `FastAPI` `Google ADK` `RAG` `pytest`
+
+[Repository](https://github.com/Ramisa1231/CouncilQ) · [Architecture](https://github.com/Ramisa1231/CouncilQ#architecture)
 
 ### 🔹 [Emotion-Based Music Recommender](https://github.com/Ramisa1231/Emotion-Based-Music-Recommender) — NLP and recommendation
 
-A Django application that detects emotion from text with a pretrained transformer and recommends music from Spotify audio features, with diversity, novelty, and emotion-match evaluation.
+Built a Django application that detects emotion from text with a pretrained transformer and maps it to Spotify audio features. The project evaluates Emotion Match, Diversity, Novelty, Correction Factor, and Listener Satisfaction.
 
 `Django` `Transformers` `scikit-learn` `pandas`
 
+[Repository](https://github.com/Ramisa1231/Emotion-Based-Music-Recommender)
+
 ### 🔹 [LLM-Guided TCP Protocol Fuzzing](https://github.com/Ramisa1231/LLM-Guided-Protocol-Fuzzing-for-TCP-Handshake-Packets) — research
 
-Research into LLM grammar inference, TCP packet parsing, mutated packet generation, and state-transition prediction using real Wireshark traffic.
+Investigated LLM grammar inference, TCP packet parsing, mutated ACK generation, and state-transition prediction using real Wireshark traffic. Evaluation covers packet validity, missing outputs, hallucination, relative position, and transition success.
 
 `Python` `Networking` `Wireshark` `LLM evaluation`
 
-## 🧪 Selected prototypes
+[Repository](https://github.com/Ramisa1231/LLM-Guided-Protocol-Fuzzing-for-TCP-Handshake-Packets)
+
+<details>
+<summary><strong>More prototypes</strong></summary>
 
 - [Agentic Coach](https://github.com/Ramisa1231/Agentic_Coach) — deterministic multi-module coaching workflow built with Streamlit and pytest
 - [AI Companion with Google ADK](https://github.com/Ramisa1231/companion-python-adk) — workshop project extended with a custom personality, Flask UI, and animated avatar
+
+</details>
 
 ## 🧰 Technical toolkit
 
@@ -84,9 +92,8 @@ Google Cloud · GitHub · Jira · Confluence · technical discovery · documenta
 
 I’m interested in applied AI, forward-deployed engineering, AI consulting, and software roles where technical judgement and stakeholder collaboration matter.
 
-- 🌐 [Portfolio repository](https://github.com/Ramisa1231/ramisa-portfolio)
-- 💼 [LinkedIn](https://www.linkedin.com/in/syedaramisafariha)
-- ✉️ [ramisa@thehelixlab.ai](mailto:ramisa@thehelixlab.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/syedaramisafariha)
+[![Email](https://img.shields.io/badge/Email-ramisa%40thehelixlab.ai-56d9d0?style=flat-square&logo=gmail&logoColor=111111)](mailto:ramisa@thehelixlab.ai)
 
 ---
 
