@@ -8,7 +8,7 @@ I work across **retrieval-augmented generation, agent workflows, Python APIs, ev
 
 📍 Adelaide, Australia · 🧭 Forward Deployed Engineer at **The Helix Lab**
 
-[Portfolio](https://ramisa1231.github.io/ramisa-portfolio/) · [LinkedIn](https://www.linkedin.com/in/syedaramisafariha) · [Email](mailto:ramisa@thehelixlab.ai)
+[Portfolio](https://www.github.com/ramisa-portfolio/) · [LinkedIn](https://www.linkedin.com/in/syedaramisafariha) · [Email](mailto:ramisa@thehelixlab.ai)
 
 </div>
 
