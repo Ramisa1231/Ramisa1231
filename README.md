@@ -2,7 +2,7 @@
 
 # Syeda Ramisa Fariha ✨
 
-### Forward Deployed Engineer · Applied AI · RAG · Software Engineering
+### Applied AI · RAG · Software Engineering
 
 I build **evaluated, safety-aware AI systems** that connect technical capability with real organisational needs.
 
