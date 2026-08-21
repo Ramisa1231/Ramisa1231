@@ -6,11 +6,10 @@
 
 I build **evaluated, safety-aware AI systems** that connect technical capability with real organisational needs.
 
-📍 Adelaide, Australia · 🧭 Forward Deployed Engineer at **[The Helix Lab](https://www.thehelix.pro/)**
+📍 Adelaide, Australia
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-b8f34b?style=for-the-badge&logo=github&logoColor=111111)](https://ramisa1231.github.io/ramisa-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syedaramisafariha)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-56d9d0?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:ramisa@thehelixlab.ai)
 
 </div>
 
@@ -93,7 +92,6 @@ Google Cloud · GitHub · Jira · Confluence · technical discovery · documenta
 I’m interested in applied AI, forward-deployed engineering, AI consulting, and software roles where technical judgement and stakeholder collaboration matter.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/syedaramisafariha)
-[![Email](https://img.shields.io/badge/Email-ramisa%40thehelixlab.ai-56d9d0?style=flat-square&logo=gmail&logoColor=111111)](mailto:ramisa@thehelixlab.ai)
 
 ---
 
