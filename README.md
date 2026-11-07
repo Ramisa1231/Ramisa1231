@@ -1,6 +1,6 @@
 <div align="center">
 
-# Syeda Ramisa Fariha ✨
+# Ramisa Fariha ✨
 
 ### Applied AI · RAG · Software Engineering
 
