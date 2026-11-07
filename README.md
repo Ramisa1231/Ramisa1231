@@ -1,10 +1,10 @@
 <div align="center">
 
-# Ramisa Fariha ✨
+# Ramisa Fariha
 
 ### Applied AI · RAG · Software Engineering
 
-I build and evaluate **safety-aware AI systems**, including grounded RAG applications, agent workflows, and production-ready Python APIs.
+I build and evaluate **safety-aware AI systems**, including grounded RAG applications, agent workflows, and tested Python APIs.
 
 📍 Adelaide, Australia
 
@@ -19,7 +19,7 @@ I build and evaluate **safety-aware AI systems**, including grounded RAG applica
 
 ## 👩‍💻 About me
 
-I work across **retrieval-augmented generation, agent workflows, Python APIs, evaluation, and stakeholder-facing delivery**—particularly for government and regulated organisations.
+I work across **retrieval-augmented generation, agent workflows, Python APIs, evaluation, and stakeholder-facing delivery**—including a policy assistant built around City of Adelaide council documents.
 
 My background spans software engineering, computer-science research, university teaching, learning technology, and client-oriented delivery. I enjoy moving between technical detail and organisational context to build systems people can understand, trust, and use.
 
@@ -31,7 +31,7 @@ My background spans software engineering, computer-science research, university 
 
 ## 🚀 Featured work
 
-### 🔹 [CouncilQ](https://github.com/Ramisa1231/CouncilQ) — policy intelligence and evaluated RAG
+### [CouncilQ](https://github.com/Ramisa1231/CouncilQ) — policy intelligence and evaluated RAG
 
 - Built a read-only policy assistant with hybrid retrieval, reranking, grounded citations, PII protection, and prompt-injection controls.
 - Created deterministic Recall, MRR, and nDCG evaluation harnesses to measure retrieval quality.
@@ -40,7 +40,7 @@ My background spans software engineering, computer-science research, university 
 
 [Repository](https://github.com/Ramisa1231/CouncilQ) · [Architecture](https://github.com/Ramisa1231/CouncilQ#architecture)
 
-### 🔹 [Emotion-Based Music Recommender](https://github.com/Ramisa1231/Emotion-Based-Music-Recommender) — NLP and recommendation
+### [Emotion-Based Music Recommender](https://github.com/Ramisa1231/Emotion-Based-Music-Recommender) — NLP and recommendation
 
 - Built a Django application that detects emotion from text with a pretrained transformer and maps it to Spotify audio features.
 - Evaluated recommendations through Emotion Match, Diversity, Novelty, Correction Factor, and Listener Satisfaction.
@@ -49,7 +49,7 @@ My background spans software engineering, computer-science research, university 
 
 [Repository](https://github.com/Ramisa1231/Emotion-Based-Music-Recommender)
 
-### 🔹 [LLM-Guided TCP Protocol Fuzzing](https://github.com/Ramisa1231/LLM-Guided-Protocol-Fuzzing-for-TCP-Handshake-Packets) — research
+### [LLM-Guided TCP Protocol Fuzzing](https://github.com/Ramisa1231/LLM-Guided-Protocol-Fuzzing-for-TCP-Handshake-Packets) — research
 
 - Investigated LLM grammar inference, TCP packet parsing, mutated ACK generation, and state-transition prediction using real Wireshark traffic.
 - Evaluated packet validity, missing outputs, hallucination, relative position, and transition success.
@@ -90,15 +90,15 @@ Technical discovery · documentation · stakeholder collaboration · university 
 ## 🎓 Background
 
 - Master of Computer Science, The University of Adelaide
-- Former university lecturer and course coordinator
-- IEEE research publication and presentation experience
-- Experience in learning technology, course development, and digital transformation
-- Delivered staged Wix CMS, form, media, and navigation improvements for the [Saroni Roy Foundation](https://ramisa1231.github.io/ramisa-portfolio/)
+- Former Computer Science lecturer and course coordinator with 5+ years of experience, BRAC University
+- Two IEEE publications on IoT, blockchain, and smart automation
+- MyUni (Canvas) support and content migration, The University of Adelaide
+- Volunteer Web Developer, Saroni Roy Foundation (2026): merged a React/TypeScript navigation fix and staged Wix CMS, form, and media updates — [case study](https://ramisa1231.github.io/ramisa-portfolio/#srf)
 - Volunteer STEM engagement
 
 ## 📬 Let’s connect
 
-I’m interested in applied AI, forward-deployed engineering, AI consulting, and software roles where technical judgement and stakeholder collaboration matter.
+I’m interested in applied AI, AI engineering, software engineering, and technical consulting roles where technical judgement and stakeholder collaboration matter.
 
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ramifariha123@gmail.com)
 [![CV](https://img.shields.io/badge/CV-Download-b8f34b?style=flat-square&logo=adobeacrobatreader&logoColor=111111)](https://ramisa1231.github.io/ramisa-portfolio/assets/Ramisa-Fariha-CV.pdf)
